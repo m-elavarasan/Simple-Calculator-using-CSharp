@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\elast\\source\\repos\\WinFormsApp1\\WinFormsApp1\\bin\\Debug\\net6.0-windows\\Simple Calculator.exe"
+    }
+  }
+}
